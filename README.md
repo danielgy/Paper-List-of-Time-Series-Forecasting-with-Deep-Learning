@@ -6,7 +6,6 @@
 - [Time-series Extreme Event Forecasting with Neural Networks at Uber](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/RNN-LSTM/2017-Time-series%20Extreme%20Event%20Forecasting%20with%20Neural%20Networks%20at%20Uber.pdf)
 - [LONG-TERM FORECASTING USING TENSOR-TRAIN RNNS](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/RNN-LSTM/2018-LONG-TERM%20FORECASTING%20USING%20TENSOR-TRAIN%20RNNS.pdf)
 - [Prediction on Housing Price Based on Deep Learning](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/RNN-LSTM/2018-Prediction%20on%20Housing%20Price%20Based%20on%20Deep%20Learning.pdf)
-- [Research and application of local perceptron neural network in high way rectiﬁer for time series forecasting](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/RNN-LSTM/2018-Research%20and%20application%20of%20local%20perceptron%20neural%20network%20in%20high%20way%20recti%EF%AC%81er%20for%20time%20series%20forecasting.pdf)
 - [Time series forecasting by recurrent product unit neural networks](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/RNN-LSTM/2018-Time%20series%20forecasting%20by%20recurrent%20product%20unit%20neural%20networks.pdf)
 
 ## CNN based
@@ -17,6 +16,7 @@
 - [Deep Learning Forecasting with Dilated Causal Convolutional Neural Networks on the CIF2016 Dataset](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/CNN%20based/2018-Deep%20Learning%20Forecasting%20with%20Dilated%20Causal%20Convolutional%20Neural%20Networks%20on%20the%20CIF2016%20Dataset.pdf)
 - [Forecasting short-term data center network traffic load with convolutional neural networks](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/CNN%20based/2018-Forecasting%20short-term%20data%20center%20network%20traffic%20load%20with%20convolutional%20neural%20networks.pdf)
 - [Dilated Convolutional Neural Networks for Time Series Forecasting](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/CNN%20based/2018-Dilated%20Convolutional%20Neural%20Networks%20for%20Time%20Series%20Forecasting.pdf)
+- [Research and application of local perceptron neural network in high way rectiﬁer for time series forecasting](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/CNN%20based/2018-Research%20and%20application%20of%20local%20perceptron%20neural%20network%20in%20high%20way%20recti%EF%AC%81er%20for%20time%20series%20forecasting.pdf)
 
 ## CNN-LSTM
 - [Deep, Convolutional, and Recurrent Models for Human Activity Recognition using Wearables](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning/blob/master/CNN-LSTM/2016-Deep%2C%20Convolutional%2C%20and%20Recurrent%20Models%20for%20Human%20Activity%20Recognition%20using%20Wearables.pdf)
